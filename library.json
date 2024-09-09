@@ -1,0 +1,21 @@
+{
+    "name": "IrFramework",
+    "keywords": "esp32",
+    "description": "A wrapper for Arduino IRRemote",
+    "authors": [
+        {
+            "name": "Andreock",
+            "maintainer": true
+        }
+    ],
+	"repository":
+    {
+        "type": "git",
+        "url": "https://github.com/CapibaraZero/IrFramework.git"
+    },
+    "version": "1.0",
+    "frameworks": "arduino",
+    "dependencies":
+	{
+	}
+}
